@@ -76,7 +76,7 @@ The piston moves upward and pushes the burnt gases out of the cylinder.
 
 One complete cycle requires 720° (two revolutions) of crankshaft rotation.
 
-➡️ [View Working Principle](./Working-%20Principal/)
+➡️ https://github.com/umang999-code/4-Stroke-Engine-assembly/tree/main/Working-Principal
 
 
 
