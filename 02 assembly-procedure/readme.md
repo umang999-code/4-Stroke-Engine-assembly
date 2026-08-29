@@ -1,7 +1,7 @@
 Assembly Components
 
 ## Lower Block Assembly:
-![Lower Block](Images/lower-block.png)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/02%20assembly-procedure/lower%20block.png
 The Lower Block forms the lower structural portion of the engine.
 It provides support and housing for the crankshaft and other related components.
 The component was positioned and assembled according to the required engine configuration.
