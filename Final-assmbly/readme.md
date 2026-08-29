@@ -36,7 +36,7 @@ https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/Final-assmbl
 
 The top view shows the arrangement and alignment of components when viewed from above.
 
-![Top View](./top-view.png)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/Final-assmbly/top%20view.png
 
 
 
