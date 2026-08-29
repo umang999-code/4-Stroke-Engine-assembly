@@ -24,7 +24,7 @@ and is one of the primary moving components of the engine.
 
 
 # Piston Assembly:
-![Piston Assembly](Images/piston-assembly.png)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/02%20assembly-procedure/piston%20assembly.png
 The Piston Assembly consists of:
 Piston
 Piston Rings
