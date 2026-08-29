@@ -1,5 +1,7 @@
 # Working Principle of 4-Stroke IC Engine:
 
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/Working-Principal/working%20of%204%20stroke%20engine.mp4
+
 # Overview
 
 A 4-Stroke Internal Combustion (IC) Engine completes one complete operating cycle in four strokes of the piston. 
