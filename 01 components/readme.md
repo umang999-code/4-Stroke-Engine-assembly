@@ -13,7 +13,7 @@ It moves up and down during the four strokes of the engine cycle.
 
 ## Crankshaft
 ### CAD Model
-[Download/View crankshaft CAD File](./Components/crankshaft.SLDPRT)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/Crank%20shaft.SLDPRT
 
 Function -
 The crankshaft converts the reciprocating motion 
