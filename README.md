@@ -32,7 +32,7 @@ The major components included in this project are:
 
 All major components were modelled as individual SolidWorks ".SLDPRT" files before completing the final assembly.
 
-➡️ [View Components](./01%20components/)
+➡️ https://github.com/umang999-code/4-Stroke-Engine-assembly/tree/main/01%20components
 
 
 
