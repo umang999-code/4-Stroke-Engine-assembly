@@ -1,6 +1,6 @@
 ## piston 
 ### CAD Model
-[Download/View Piston CAD File](./Components/piston.SLDPRT)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/piston.SLDPRT
 
 Function -
 The piston moves reciprocally inside the cylinder and 
