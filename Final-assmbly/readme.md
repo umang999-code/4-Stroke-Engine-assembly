@@ -27,7 +27,7 @@ The front view shows the main front-side geometry of the assembled IC engine and
 
 The back view provides visibility of the rear-side structure and components of the completed engine assembly.
 
-![Back View](./back-view.png)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/Final-assmbly/back%20view.png
 
 
 
