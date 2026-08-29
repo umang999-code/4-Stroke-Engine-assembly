@@ -64,9 +64,9 @@ The connecting rod converts the reciprocating movement of the piston into the ro
 movement of the crankshaft through its connection with the crank mechanism.
 
 
-## Crankshaft Support Shaft
+## piston pin 
 ### CAD Model
-[Download/View shaft CAD File](./Components/shaft.SLDPRT)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/part%202%20piston%20pin.SLDPRT
 
 Function -
 The shaft provides support and allows the crankshaft 
