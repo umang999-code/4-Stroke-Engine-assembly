@@ -8,7 +8,7 @@ The component was positioned and assembled according to the required engine conf
 
 
 # Engine Block Assembly:
-![Engine Block Assembly](Images/engine-block.png)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/02%20assembly-procedure/engine%20block.png
 The Engine Block Assembly consists of the Lower Block and Upper Head/Block assembled together.
 This assembly represents the main structural body of the engine
 and provides the required space and alignment for
