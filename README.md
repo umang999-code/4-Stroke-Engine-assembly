@@ -35,7 +35,13 @@ and crankshaft motion.
 
 ## Project Image
 
-![4-Stroke Engine Assembly](Images/engine-assembly.jpg)
+![Engine Assembly](Screenshot%202026-08-29%20121735.png)
+
+![Engine Working](Screenshot%202026-08-29%20121900.png)
+
+![Engine View](Screenshot%202026-08-29%20122333.png)
+
+![Engine Model](Screenshot%202026-08-29%20122635.png)
 
 ## Learning Outcomes
 - Learned 3D part modelling in SolidWorks
