@@ -91,7 +91,7 @@ The completed CAD assembly is presented through multiple views for better visual
 - Top View
 - Side View
 
-➡️[View Final Assembly](./Final-assembly/)
+➡️https://github.com/umang999-code/4-Stroke-Engine-assembly/tree/main/Final-assmbly
 
 
 
