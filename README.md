@@ -50,7 +50,7 @@ The assembly process includes:
 5. Crankshaft support shaft installation
 6. Final assembly and inspection
 
-➡️ [View Assembly Procedure](./02%20assembly-procedure/)
+➡️https://github.com/umang999-code/4-Stroke-Engine-assembly/tree/main/02%20assembly-procedure
 
 
 
