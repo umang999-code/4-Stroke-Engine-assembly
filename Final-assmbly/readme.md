@@ -44,7 +44,7 @@ The top view shows the arrangement and alignment of components when viewed from 
 
 The side view demonstrates the overall length, height, and structural arrangement of the assembled engine.
 
-![Side View](./side-view.png)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/Final-assmbly/side%20view.png
 
 
 
