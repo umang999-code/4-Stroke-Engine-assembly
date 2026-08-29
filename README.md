@@ -1,58 +1,96 @@
 # 4-Stroke-Engine-assembly
 3D CAD model and assembly of a 4-stroke engine designed using solid work
 ## Project Overview
+This project is a 3D CAD model and assembly of a 4-stroke internal combustion engine designed using SolidWorks.
+The project demonstrates the design and assembly of major engine components and helps to understand the basic working mechanism of a 4-stroke engine.
 
-The model demonstrates the basic working mechanism of a multi-cylinder
-four-stroke internal combustion engine through piston, connecting rod,
-and crankshaft motion.
+## Project Objective
+
+- To understand the basic construction of a 4-stroke engine.
+- To design engine components using SolidWorks.
+- To assemble the individual components into a complete engine.
+- To understand the working relationship between the piston, connecting rod and crankshaft.
+- To improve 3D CAD modelling and mechanical assembly skills.
 
 ## Software Used
+
 - SolidWorks
-- 3D Part Modelling
-- Assembly Modelling
+- 3D part modelling
+- Assembly modelling
 
 ## Main Components
+
 - Engine Block
-- Cylinder
+- cylinder
 - Piston
-- Piston Rings
+- piston ring
 - Connecting Rod
 - Crankshaft
-- Flywheel
+- flywheel
 
-## Four-Stroke Working Cycle
-1. Intake
-2. Compression
-3. Power
-4. Exhaust
+## Working Principle
 
-## Key Features
-- Multi-cylinder engine assembly
-- Piston and crankshaft mechanism
-- Mechanical mates and assembly constraints
-- Working motion simulation
-- 3D CAD modelling
+A 4-stroke engine works through four basic strokes:
 
-## Project Image
+### 1. Intake Stroke
 
-![Engine Assembly](Screenshot%202026-08-29%20121735.png)
+The piston moves downward and the air-fuel mixture enters the cylinder through the intake valve.
 
-![Engine Working](Screenshot%202026-08-29%20121900.png)
+### 2. Compression Stroke
 
-![Engine View](Screenshot%202026-08-29%20122333.png)
+The piston moves upward and compresses the air-fuel mixture while both valves remain closed.
 
-![Engine Model](Screenshot%202026-08-29%20122635.png)
+### 3. Power Stroke
 
-## Learning Outcomes
-- Learned 3D part modelling in SolidWorks
-- Learned assembly and mating techniques
-- Understood piston-crank mechanism
-- Improved knowledge of IC engine components and working
+The compressed mixture is ignited. Combustion produces pressure which pushes the piston downward and generates power.
 
-- ## conclusion
-  The 4 stroke engine assembly project successfully demonstrate the 3D modlling
-  and assembling of a four stroke internal combustion engine using solid works.
-  the project helped in understanding the working mechanism and movement of major
-  components such as the piston, connecting rod, cylinder, and crankshaft. It also
-  provided practical experience in 3D parts modelling , assembly design and CAD based
-  engineering visualization. 
+### 4. Exhaust Stroke
+
+The piston moves upward and pushes the burnt gases out through the exhaust valve.
+
+## CAD Modelling
+
+The engine components were designed using SolidWorks tools such as:
+
+- Sketch
+- Extrude
+- Revolve
+- Cut
+- Fillet
+- Chamfer
+- Hole
+- Pattern
+- Assembly Mates
+
+## Assembly Mechanism
+
+The main mechanical mechanism is:
+
+*Piston → Connecting Rod → Crankshaft*
+
+The reciprocating motion of the piston is converted into rotary motion of the crankshaft through the connecting rod.
+
+## Project Structure
+
+- 01-Components – Main engine components
+- 02-Assembly-Procedure – Assembly steps
+- 03-Working – Working principle of the engine
+- 04-Final-Assembly – Final engine assembly and views
+
+## Skills Demonstrated
+
+- 3D CAD Modelling
+- Part Design
+- Assembly Design
+- Mechanical Design
+- SolidWorks
+- Basic IC Engine Mechanism
+
+## Project Status
+
+*Completed*
+
+## Author
+
+*Umang999-code*
+
