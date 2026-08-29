@@ -10,7 +10,7 @@ The assembled model is presented through multiple views to clearly demonstrate t
 
 The isometric view provides a clear three-dimensional representation of the complete engine assembly and shows the overall arrangement of the major components.
 
-![Isometric View](./isometric-view.png)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/Final-assmbly/isometric%20view.png
 
 
 
