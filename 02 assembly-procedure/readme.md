@@ -33,7 +33,7 @@ These components were assembled together to represent the piston mechanism.
 The piston moves inside the cylinder, while the connecting rod transfers motion between the piston and crankshaft.
 
 # Complete 4-Stroke Engine Assembly:
-![Complete 4-Stroke Engine](Images/4-stroke-engine.png)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/02%20assembly-procedure/4%20stroke%20engine%20assembly.png
 Finally, all the individual components and sub-assemblies were combined using appropriate 
 SolidWorks mates to create the complete 4-stroke engine assembly.
 The final assembly represents the overall mechanical arrangement of the engine, including the:
