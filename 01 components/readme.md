@@ -40,7 +40,7 @@ and helps maintain the proper position of the rotating components.
 
 ## Upper Block
 ### CAD Model
-[Download/View upper block CAD File](./Components/upperblock.SLDPRT)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/upper%20block%20cylinder.SLDPRT
 
 Function -
 The upper block forms the upper structure of the engine and
