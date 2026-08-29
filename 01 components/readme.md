@@ -27,7 +27,7 @@ It transmits mechanical power to the output side of the engine.
 
 ## Lower Block
 ### CAD Model
-[Download/View lower block CAD File](./Components/lowerblock.SLDPRT)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/lower%20block.SLDPRT
 
 Function -
 The lower block forms the lower supporting structure of the engine 
