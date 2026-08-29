@@ -16,7 +16,7 @@ the piston-cylinder mechanism and crankshaft system.
 
 
 # Crankshaft Assembly:
-![Crankshaft Assembly](Images/crankshaft-assembly.png)
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/02%20assembly-procedure/crankshaft%20assembly.png
 The Crankshaft Assembly was created by positioning the crankshaft within
 the engine structure using appropriate mates.
 The crankshaft converts the reciprocating motion of the piston into rotational motion
