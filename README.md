@@ -48,3 +48,11 @@ and crankshaft motion.
 - Learned assembly and mating techniques
 - Understood piston-crank mechanism
 - Improved knowledge of IC engine components and working
+
+- ## conclusion
+  The 4 stroke engine assembly project successfully demonstrate the 3D modlling
+  and assembling of a four stroke internal combustion engine using solid works.
+  the project helped in understanding the working mechanism and movement of major
+  components such as the piston, connecting rod, cylinder, and crankshaft. It also
+  provided practical experience in 3D parts modelling , assembly design and CAD based
+  engineering visualization. 
