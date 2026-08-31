@@ -1,6 +1,6 @@
 # Final Assembly – 4-Stroke IC Engine
 
-https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/Final-assmbly/Assembly%20of%204%20stroke%20engine.SLDASM
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/Final-assmbly/Assebly%20of%20IC%20Engine.SLDASM
 
 
 # Overview
