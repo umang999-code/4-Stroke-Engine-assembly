@@ -66,7 +66,7 @@ movement of the crankshaft through its connection with the crank mechanism.
 
 ## piston pin 
 ### CAD Model
-
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/Piston%20Pin.png
 
 Function -
 The shaft provides support and allows the crankshaft 
