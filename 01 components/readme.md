@@ -1,5 +1,4 @@
-## piston 
-### CAD Model
+## piston:
 https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/Piston.png
 
 Function -
@@ -12,7 +11,6 @@ It moves up and down during the four strokes of the engine cycle.
 
 
 ## Crankshaft
-### CAD Model
 https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/Crankshafts.png
 
 Function -
@@ -26,7 +24,7 @@ It transmits mechanical power to the output side of the engine.
 
 
 ## Lower Block
-### CAD Model
+
 https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/Lower%20Block.png
 
 Function -
@@ -39,7 +37,7 @@ and helps maintain the proper position of the rotating components.
 
 
 ## Upper Block
-### CAD Model
+
 https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/Upper%20block.png
 
 Function -
@@ -52,7 +50,7 @@ and provides structural support to the engine components.
 
 
 ## Connecting Rod
-### CAD Model
+
 https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/Connecting%20rod.png
 
 Function -
@@ -65,7 +63,7 @@ movement of the crankshaft through its connection with the crank mechanism.
 
 
 ## piston pin 
-### CAD Model
+
 https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/Piston%20Pin.png
 
 Function -
