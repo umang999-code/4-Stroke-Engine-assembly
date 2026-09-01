@@ -53,7 +53,7 @@ and provides structural support to the engine components.
 
 ## Connecting Rod
 ### CAD Model
-
+https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/Connecting%20rod.png
 
 Function -
 The connecting rod connects the piston to the crankshaft
