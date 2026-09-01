@@ -1,7 +1,5 @@
 # Final Assembly – 4-Stroke IC Engine
 
-https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/Final-assmbly/Assebly%20of%20IC%20Engine.SLDASM
-
 
 # Overview
 The final assembly represents the completed 4-Stroke Internal Combustion (IC) Engine after assembling the major components and completing the required assembly operations.
