@@ -1,6 +1,6 @@
 ## piston 
 ### CAD Model
-https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/piston.SLDPRT
+
 
 Function -
 The piston moves reciprocally inside the cylinder and 
@@ -13,7 +13,7 @@ It moves up and down during the four strokes of the engine cycle.
 
 ## Crankshaft
 ### CAD Model
-https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/Crank%20shaft.SLDPRT
+
 
 Function -
 The crankshaft converts the reciprocating motion 
@@ -27,7 +27,7 @@ It transmits mechanical power to the output side of the engine.
 
 ## Lower Block
 ### CAD Model
-https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/lower%20block.SLDPRT
+
 
 Function -
 The lower block forms the lower supporting structure of the engine 
@@ -40,7 +40,7 @@ and helps maintain the proper position of the rotating components.
 
 ## Upper Block
 ### CAD Model
-https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/upper%20block%20cylinder.SLDPRT
+
 
 Function -
 The upper block forms the upper structure of the engine and
@@ -53,7 +53,7 @@ and provides structural support to the engine components.
 
 ## Connecting Rod
 ### CAD Model
-https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/connecting%20rod.SLDPRT
+
 
 Function -
 The connecting rod connects the piston to the crankshaft
@@ -66,7 +66,7 @@ movement of the crankshaft through its connection with the crank mechanism.
 
 ## piston pin 
 ### CAD Model
-https://github.com/umang999-code/4-Stroke-Engine-assembly/blob/main/01%20components/part%202%20piston%20pin.SLDPRT
+
 
 Function -
 The shaft provides support and allows the crankshaft 
