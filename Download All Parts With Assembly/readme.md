@@ -1,5 +1,7 @@
 ## Download Complete 4-Stroke IC Engine CAD Files:
 
+# Please ensure that all the parts with assembly file are download in a single folder to open the assembly properly in solidworks:
+
 The complete 4-Stroke Internal Combustion (IC) Engine CAD model is provided in SolidWorks format for engineering study, design reference, assembly practice, and further modification.
 
 ## Included Files :
