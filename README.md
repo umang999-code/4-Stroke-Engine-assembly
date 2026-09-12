@@ -119,28 +119,6 @@ Through this project, I developed an understanding of:
 - Four-stroke engine working principle
 - Technical visualization and documentation
 
----
-
-📂 Project Structure
-
-4-Stroke-IC-Engine/
-│
-├── README.md
-│
-├── 01-Components/
-│   ├── Components/
-│   └── README.md
-│
-├── 02-Assembly-Procedure/
-│   └── README.md
-│
-├── 03-Working-Principle/
-│   └── README.md
-│
-└── 04-Final-Assembly/
-    └── README.md
-
----
 
 #  Conclusion
 
