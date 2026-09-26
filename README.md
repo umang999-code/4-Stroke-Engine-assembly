@@ -1,5 +1,5 @@
 # 4-Stroke IC Engine – CAD Assembly & Working
-
+![4-Stroke Engine](./Final-assmbly/isometric%20view.png)
 📌 Project Overview
 
 This project presents the 3D CAD modelling, assembly, and working principle of a 4-Stroke Internal Combustion (IC) Engine.
